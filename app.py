@@ -7,8 +7,8 @@ import os
 with open("model/recommender.pkl", "rb") as f:
     df, similarity_matrix = pickle.load(f)
 
-st.set_page_config(page_title="African Food Product Recommender", layout="wide")
-st.title("🛒 African Food Product Recommender")
+st.set_page_config(page_title="African Food Product Recommendation", layout="wide")
+st.title("🛒 African Food Product Recommendation")
 
 product_list = df['product_name'].tolist()
 selected_product = st.selectbox("Select a product you like:", product_list)
