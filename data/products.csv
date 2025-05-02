@@ -1,7 +1,11 @@
-product_id,product_name,category
-1,Rice,Grains
-2,Beans,Legumes
-3,Plantain,Vegetables
-4,Yam,Tubers
-5,Tomato,Vegetables
-6,Chicken,Meat
+Product_name,Category,Subcategory,Price,Description
+Rice,Grains,Cereal Grain,500,Long-grain white rice
+Beans,Legumes,Dry Legumes,400,Protein-rich brown beans
+Plantain,Vegetables,Starchy Vegetable,350,Ripe or unripe sliced plantains
+Yam,Tubers,Root Vegetable,600,Fresh white yam tubers
+Tomato,Vegetables,Fruit Vegetable,300,Juicy red cooking tomatoes
+Chicken,Meat,Poultry,1500,Freshly dressed chicken
+Spaghetti,Grains,Pasta,250,"Dried spaghetti, easy to cook"
+Indomie,Grains,Instant Noodles,200,Quick-cook spicy noodles
+Semo,Grains,Swallow,350,Semovita for Nigerian swallow meals
+Meat,Protein,Animal-based Protein,1200,"Fresh beef, locally sourced"
